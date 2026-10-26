@@ -1,6 +1,6 @@
 # Readability ESMAS
 
-This repository contains the source code for the article [A Comparative Study of Feature Representations for Spanish L2 Text Complexity Across Pedagogical and Authentic Corpora](https://github.com/GrupoPortlex/ReadabilityESMAS/tree/main) published at SEPLN 2026.
+This repository contains the source code for the article [A Comparative Study of Feature Representations for Spanish L2 Text Complexity Across Pedagogical and Authentic Corpora](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6904) published at SEPLN 2026.
 
 This study investigates the effectiveness of three feature representations for Spanish L2 CEFR level prediction (traditional readability metrics, CEFR-based lexical overlap features, and unigram TF-IDF) on two types of datasets (authentic and learner corpora).
 
@@ -17,7 +17,17 @@ The main files are:
 # Bibtex
 If you find this research useful, please consider citing:
 
-```bibtex
-
+```
+@article{PLN6904,
+	author = {Daniel Mora y María José Domínguez Vázquez y Iván Arias-Arias y Idalete Dias y Vítor Míguez-Rego y Carlos Valcárcel Riveiro},
+	title = {A Comparative Study of Feature Representations for Spanish L2 Text Complexity Across Pedagogical and Authentic Corpora},
+	journal = {Procesamiento del Lenguaje Natural},
+	volume = {77},
+	number = {0},
+	year = {2026},
+	issn = {1989-7553},
+	url = {http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6904},
+	pages = {467--483}
+}
 ```
 
